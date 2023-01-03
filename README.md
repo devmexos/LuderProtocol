@@ -1,4 +1,4 @@
-#LUDER PROTOCOL v1.0
+# LUDER PROTOCOL v1.0
 
 Token protocol with automatic lottery system for holders.
 
