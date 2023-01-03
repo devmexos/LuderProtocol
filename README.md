@@ -1,10 +1,4 @@
-    __    __  ______  __________ 
-   / /   / / / / __ \/ ____/ __ \
-  / /   / / / / / / / __/ / /_/ /
- / /___/ /_/ / /_/ / /___/ _, _/ 
-/_____/\____/_____/_____/_/ |_|
-
-LUDER PROTOCOL v1.0
+#LUDER PROTOCOL v1.0
 
 Token protocol with automatic lottery system for holders.
 
